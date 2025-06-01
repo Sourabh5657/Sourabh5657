@@ -68,8 +68,16 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhshrivastava&show_icons=true&locale=en&layout=compact" alt="sourabhshrivastava" /></p>
+<h3 align="left">📊 GitHub Stats</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhshrivastava&show_icons=true&locale=en" alt="sourabhshrivastava" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sourabhshrivastava&show_icons=true&theme=default" alt="Sourabh's GitHub stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhshrivastava&" alt="sourabhshrivastava" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhshrivastava&layout=compact&langs_count=5&theme=default" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhshrivastava&theme=default" alt="Sourabh's GitHub Streak" />
+</p>
