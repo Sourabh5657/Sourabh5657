@@ -8,7 +8,6 @@
 - 🎓 Pursuing **B.Tech in Electronics & Communication Engineering (Specialization: AI & Cybernetics)**
 - 🔭 Recent Project: **Rapid Rescue – IoT-Based Smart Ambulance System**
 - 🤖 Passionate about **Automating Devices with AI, Computer Vision, and Embedded Systems**
-- 🛠️ Skilled in **Python, Embedded C, IoT**, and **Computer Vision**
 - 🌱 Currently deepening knowledge in **Advanced AI Applications & Real-Time Embedded Systems**
 - 👯 Open to collaborations on **AI + Embedded Projects, IoT Solutions, and Computer Vision Innovations**
 - 💡 A keen observer, always striving to innovate for the comfort and advancement of human life
