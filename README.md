@@ -58,17 +58,11 @@
 
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sourabh-shrivastava-480b38251/" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" />
+  <a href="https://www.linkedin.com/in/sourabh-shrivastava-480b38251/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:sourabhshrivastava500@gmail.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" width="40" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/sourabhshrivastava123/" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/geeksforgeeks.png" alt="GeeksforGeeks" height="40" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/sourabhshrivast5" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="HackerRank" height="40" width="40" />
+  <a href="mailto:sourabhshrivastava500@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
 
