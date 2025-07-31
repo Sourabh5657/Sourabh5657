@@ -56,18 +56,18 @@
 ---
 
 <h3 align="left">🌐 Connect with Me:</h3>
-<p align="left">
+<p align="left" style="display: flex; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/sourabh-shrivastava-480b38251/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="vertical-align: middle;"/>
   </a>
   <a href="mailto:sourabhshrivastava500@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="40" height="40" style="vertical-align: middle;"/>
   </a>
   <a href="https://www.hackerrank.com/profile/sourabhshrivast5" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/1030588?s=200&v=4" alt="HackerRank" width="50" height="50"/>
+    <img src="https://avatars.githubusercontent.com/u/1030588?s=200&v=4" alt="HackerRank" width="40" height="40" style="vertical-align: middle;"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/sourabhshrivastava123/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="30" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40" style="vertical-align: middle;"/>
   </a>
 </p>
 
