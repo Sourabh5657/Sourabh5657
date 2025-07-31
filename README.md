@@ -70,6 +70,6 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourabhshrivastava&show_icons=true&theme=default" alt="Sourabh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sourabh5657&show_icons=true&theme=default" alt="Sourabh's GitHub stats" />
 </p>
 
