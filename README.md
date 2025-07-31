@@ -67,7 +67,7 @@
     <img src="https://avatars.githubusercontent.com/u/1030588?s=200&v=4" alt="HackerRank" width="40" height="40"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/sourabhshrivastava123/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="50" height="50"/>
   </a>
 </p>
 
